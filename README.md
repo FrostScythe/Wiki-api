@@ -1,5 +1,5 @@
 
-**GitHub Documentation for Express Wiki API**
+**Documentation for Express Wiki API**
 
 This GitHub documentation provides an overview and instructions for using the Express Wiki API, which allows you to manage articles in a local MongoDB database. The API provides endpoints to retrieve, create, update, and delete articles.
 
